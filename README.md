@@ -6,6 +6,8 @@ used tkinter for GUI.
 
 (practiced in base.py)
 
+*to use this, download exe file*
+
 ## how-to-use
 
 ![gif maker](/tutorial.png)

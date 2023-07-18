@@ -8,6 +8,8 @@ used tkinter for GUI.
 
 ## how-to-use
 
+![gif maker](/tutorial.png)
+
 0. prepare images or video.
 1. set and select the options.
 > output : output name.

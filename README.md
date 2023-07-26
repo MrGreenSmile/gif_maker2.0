@@ -21,4 +21,5 @@ used tkinter for GUI.
 > scale : unifying scale of images.
 >
 > section : extracting section of videos.
-2. press 'open and gifs' to complet.
+2. press 'open and gifs' to choose file.
+3. choosing file, process will start immediately.

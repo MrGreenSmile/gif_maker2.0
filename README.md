@@ -6,7 +6,7 @@ used tkinter for GUI.
 
 (practiced in base.py)
 
-*to use this, download the exe file*
+*to use this, download the exe and icon file*
 
 ## how-to-use
 
